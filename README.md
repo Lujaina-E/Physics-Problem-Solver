@@ -6,6 +6,8 @@ To help students check their answers, and teachers explain concepts, I collabora
 Java was used to create the program after planning documents (use case diagram, gantt chart, and flowchart) were created using LucidChart.
 ### Challenges
 The main problem that we had to overcome was solving for angles in projectile problems. To overcome, we had to break down the problem into smaller segments that we were able to figure out mathematically on pen and paper and then recombine all the smaller segments in code. Doing so allowed us to realize that there are multiple possible angles for the projectile to exist at, so by breaking down the problem into digestible pieces, we were not only able to overcome the problem, but we also considered new perpspectives we hadn't before. 
+### What I Learned
+I learned how to use a methods file seperate from the main file to better organize my code, as well as integrate more complicated functions like a memory system more seamlessly.  
 ### Notable Features
 The option to calculate angles required for particlar 
 Memory system allowing to recall the last 3 answers
